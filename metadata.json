@@ -1,0 +1,7 @@
+{
+  "name": "Mahuva property ",
+  "description": "A premium real estate platform featuring AI-powered property assistance, direct WhatsApp integration, and one-touch calling for seamless lead management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
